@@ -166,14 +166,14 @@ ul a {
 
     .aboutpara {
         font-size: 20px;
-        min-width: 40rem;
+        min-width: 20rem;
         margin-bottom: 20px;
     }
     .image1 {
-        display: none;
-        /* position: relative;
+        /*display: none;*/
+         position: relative;
         top: 0vh;
-        left: 30rem; */
+        left: 30rem;
     }
 
     .resume {
@@ -232,7 +232,7 @@ ul a {
         position: relative;
         top: 22rem;
         left: 0%;
-        background-color: rgb(34, 34, 34);
+        /*background-color: rgb(34, 34, 34);*/
     }
     .head {
         display: flex;
