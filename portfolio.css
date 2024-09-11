@@ -166,18 +166,14 @@ ul a {
 
     .aboutpara {
         font-size: 20px;
-        min-width: 25rem;
+        min-width: 40rem;
         margin-bottom: 20px;
     }
-    .image1  img{
-        height: 30vh;
-    }
-
     .image1 {
-        /* display: none; */
-        position: relative;
+        display: none;
+        /* position: relative;
         top: 0vh;
-        left: 30rem;
+        left: 30rem; */
     }
 
     .resume {
@@ -199,7 +195,7 @@ ul a {
         align-items: center;
         position: absolute;
         left: 30%;
-        top: 0rem;
+        top: 20rem;
         min-width: 90vw;
         margin-left: 50px;
         margin-bottom: 50px;
